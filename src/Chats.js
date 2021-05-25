@@ -13,19 +13,19 @@ function Chats() {
             <Chat
                 name="Emma"
                 message="Hey!"
-                timestamp="35 minutes ago"
+                timestamp="20 minutes ago"
                 profilePic="https://www.comingsoon.net/assets/uploads/2020/12/emmastone-1280x720.jpg"
             />
             <Chat
                 name="Addison"
                 message="Have you seen my latest..."
-                timestamp="20 seconds ago"
+                timestamp="2 days ago"
                 profilePic="https://media.wonderlandmagazine.com/uploads/2021/03/IMG_2527.jpg"
             />
             <Chat
                 name="Emilia"
                 message="You should see my dragons!"
-                timestamp="42 minutes ago"
+                timestamp="1 week ago"
                 profilePic="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/emiliaclarke-square-1552083436.png"
             />
         </div>
